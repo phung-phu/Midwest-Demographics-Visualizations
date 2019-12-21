@@ -1,5 +1,5 @@
 # Midwest Demographics
-Create a Shiny application giving users the ability to interact with a visual representation of the midwest dataset. Uses the midwest dataset, which is built into the ggplot2 package. 
+Create a Shiny application giving users the ability to interact with a visual representation of the midwest dataset. Uses the Midwest dataset, which is built into the ggplot2 package. 
 
 - **[Link to my shinyapps.io](https://phung-phu.shinyapps.io/a8-midwest/)**
 
