@@ -1,7 +1,5 @@
-# a8-shiny
-In this assignment, you'll complete the instructions **on canvas** to demonstrate your ability to create a Shiny application. Before submitting your assignment, please edit this `README.md` file to **include a link** to your hosted application on `shinyapps.io`.
-
-[comment]: <> (When you're finished, please make sure to **submit this GitHub URL** to Canvas on time for credit.)
+# Midwest Demographics
+Create a Shiny application giving users the ability to interact with a visual representation of the midwest dataset. Uses the midwest dataset, which is built into the ggplot2 package. 
 
 - **[Link to my shinyapps.io](https://phung-phu.shinyapps.io/a8-midwest/)**
 
